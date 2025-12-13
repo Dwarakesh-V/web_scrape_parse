@@ -1,0 +1,133 @@
+{
+  "core_item": {
+    "canonical_product_name": "Hundred Raze Badminton Shoes (Non Marking)",
+    "brand": "Hundred",
+    "generic_item_type": "Badminton Shoes",
+    "primary_use": "Badminton",
+    "secondary_uses": [
+      "Squash",
+      "Table Tennis",
+      "Indoor Sports"
+    ],
+    "features": [
+      "Lightweight",
+      "Durable",
+      "X-Cushion Protection",
+      "Active Grip Sole",
+      "High Performance Sole",
+      "Multi-layered protection for total foot comfort",
+      "Non Marking"
+    ]
+  },
+  "pricing_and_purchase_metadata": {
+    "current_price": 1799.0,
+    "list_price": 2790.0,
+    "discount": "36% Savings",
+    "currency": "INR",
+    "delivery_policy": "Free Delivery",
+    "return_policy": "10 days Return & Exchange",
+    "payment_options": [
+      "Pay on Delivery",
+      "No Cost EMI available",
+      "Cashback offers available",
+      "Bank discount offers available",
+      "GST invoice for business purchases"
+    ],
+    "fulfillment": "Amazon Delivered",
+    "transaction_security": "Secure transaction"
+  },
+  "available_variants": {
+    "sizes_uk": [
+      "1 UK",
+      "2 UK",
+      "3 UK",
+      "4 UK",
+      "5 UK",
+      "6 UK",
+      "7 UK",
+      "8 UK",
+      "9 UK",
+      "10 UK",
+      "11 UK",
+      "12 UK"
+    ],
+    "colors": [
+      "Black/Gold",
+      "Blue/White",
+      "Lt Blue/Blue",
+      "Lt Blue/Orange/Black/Yellow",
+      "Navy/Lime",
+      "Navy/Orange Red",
+      "Red/White/Black",
+      "Turquoise/Black/Grey",
+      "Turquoise/Orange/White",
+      "White/Navy",
+      "White/Orange/Deep Sea Blue",
+      "Yellow/Dk Grey"
+    ]
+  },
+  "category_taxonomy": {
+    "hierarchy": [
+      "Shoes",
+      "Men's Shoes",
+      "Sports & Outdoor Shoes",
+      "Badminton Shoes"
+    ],
+    "rankings": [
+      {
+        "category": "Shoes & Handbags",
+        "rank": 295
+      },
+      {
+        "category": "Men's Badminton Shoes",
+        "rank": 7
+      }
+    ]
+  },
+  "review_metadata": {
+    "overall_rating": 4.0,
+    "rating_count": 2242,
+    "sentiment_themes": {
+      "positive": [
+        "Good quality",
+        "Comfortable",
+        "Good value for money",
+        "Good grip",
+        "Perfect fit",
+        "Suitable for beginner to intermediate players"
+      ],
+      "mixed": [
+        "Weight (some find lightweight, others bulky/heavy)",
+        "Cushioning (some praise, others find sole hard/less cushioning)",
+        "Fit (some comfortable, others ill-fitting)",
+        "Durability (some find durable, others not for regular players)"
+      ],
+      "negative": [
+        "Ill-fitting for some",
+        "Not durable enough for regular players (4-5 months reported)",
+        "Hard sole/less cushioning for some",
+        "Poor feet support for some",
+        "Shoes may come off during game for some",
+        "Feet aches for some"
+      ]
+    }
+  },
+  "package_contents": {
+    "items": [
+      "1 Pair of Non Marking Badminton Shoes"
+    ]
+  },
+  "user_interest_signals": {
+    "activity_or_sport": [
+      "Badminton",
+      "Squash",
+      "Table Tennis",
+      "Indoor Sports",
+      "Lawn Tennis"
+    ],
+    "price_sensitivity_tier": "Value-oriented",
+    "skill_level": "Beginner to Intermediate",
+    "brand_flexibility": "High (compared to Yonex, Nivia, Victor, Adidas, Asics, Lining, Nike for value)",
+    "purchase_intent": "Sports performance, everyday play or matches"
+  }
+}

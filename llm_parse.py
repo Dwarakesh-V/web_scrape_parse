@@ -76,7 +76,7 @@ if start == -1 or end == -1:
     raise ValueError("No JSON object found in response")
 
 json_str = response[start:end + 1]
-data = json.loads(json)
+data = json.loads(json_str)
 
 with open("sections_site.json", "w") as f:
     json.dump(data, f, indent=2)
