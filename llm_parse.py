@@ -63,7 +63,10 @@ messages = [
 ]
 
 # Generate response
-response = generate_response(messages)
+try:
+    response = generate_response(messages)
+except Exception as e:
+    print(f"Unable to generate response from local model because of error {e}")
 
 # Add assistant response to history
 # messages.append({"role": "assistant", "content": response})
