@@ -1,0 +1,95 @@
+{
+  "canonical_product_name": "Hundred Raze Badminton Shoes",
+  "brand": "HUNDRED",
+  "generic_item_type": "Badminton Shoes",
+  "primary_use": "Badminton, Squash, Table Tennis, Indoor Sports",
+  "explicit_secondary_uses": [
+    "Squash",
+    "Table Tennis"
+  ],
+  "price": {
+    "current_price": 1799.0,
+    "list_price": 2790.0,
+    "discount": 36,
+    "currency": "INR",
+    "delivery_return_policies": [
+      "Free Delivery",
+      "10 days Return & Exchange"
+    ]
+  },
+  "available_variants": [
+    {
+      "size": "1 UK",
+      "color": "Black/Gold"
+    },
+    {
+      "size": "2 UK",
+      "color": "Blue/White"
+    },
+    {
+      "size": "3 UK",
+      "color": "Lt Blue/Blue"
+    },
+    {
+      "size": "4 UK",
+      "color": "Lt Blue/Orange/Black/Yellow"
+    },
+    {
+      "size": "5 UK",
+      "color": "Navy/Lime"
+    },
+    {
+      "size": "6 UK",
+      "color": "Navy/Orange Red"
+    },
+    {
+      "size": "7 UK",
+      "color": "Red/White/Black"
+    },
+    {
+      "size": "8 UK",
+      "color": "Turquoise/Black/Grey"
+    },
+    {
+      "size": "9 UK",
+      "color": "Turquoise/Orange/White"
+    },
+    {
+      "size": "10 UK",
+      "color": "White/Navy"
+    },
+    {
+      "size": "11 UK",
+      "color": "White/Orange/Deep Sea Blue"
+    },
+    {
+      "size": "12 UK",
+      "color": "Yellow/Dk Grey"
+    }
+  ],
+  "category_taxonomy": [
+    "Shoes & Handbags",
+    "Men's Shoes",
+    "Badminton Shoes",
+    "Sports & Outdoor Shoes",
+    "Badminton Shoes"
+  ],
+  "review_metadata": {
+    "overall_rating": 4.2,
+    "rating_count": 2242,
+    "sentiment_themes": [
+      "positive",
+      "mixed"
+    ]
+  },
+  "package_contents": [
+    "1 Pair of Non Marking Badminton Shoes"
+  ],
+  "user_interest_signals": [
+    "Sports",
+    "Badminton",
+    "Price Sensitivity: Medium",
+    "Skill Level: Beginner to Intermediate",
+    "Brand Flexibility: High"
+  ]
+}
